@@ -38,4 +38,4 @@ Para executar o programa:
 
 ## Autoavaliação
 
-Minha autoavaliação para este exercício foi de **10/10**, considerando a clareza do código, a organização do projeto e a execução correta do programa, além do resultado positivo ao conseguir realizar com sucesso o que foi proposto na tarefa de Integração Eclipse e GitHub.
+Minha autoavaliação para este exercício foi de **05/05**, considerando a clareza do código, a organização do projeto e a execução correta do programa, além do resultado positivo ao conseguir realizar com sucesso o que foi proposto na tarefa de Integração Eclipse e GitHub.
