@@ -15,7 +15,8 @@ Atualmente, este repositório contém:
 
 2. **Exercício 2 - Integração Eclipse e PostgreSQL**  
    - Programa em Java para manipulação de dados no PostgreSQL com operações CRUD, incluindo menu interativo no console.  
-   - Classes principais: `Livro.java`, `DAO.java`, `Principal.java`  
+   - Classes principais: `Livro.java`, `DAO.java`, `Principal.java`
+   - Contém `pom.xml` para gerenciamento Maven.    
    - [Link para o README do Exercício 2]([Exercicio2/README.md](https://github.com/MiFovero/pp_TI2/blob/bc26b0bced2ccb7cf26450f18d6288bd373e182d/ex02/README.md))  
 
 > Futuramente, novos exercícios e projetos paralelos serão adicionados nesta mesma estrutura, mantendo organização por pastas e documentação individual.
