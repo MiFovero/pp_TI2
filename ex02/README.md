@@ -21,7 +21,8 @@ Para esta tarefa, eu:
    - Atualizar livro  
    - Excluir livro  
    - Sair do programa  
-
+5. Foi incluído o arquivo **`pom.xml`** para gerenciamento do projeto via Maven, incluindo dependências e configuração do build.
+   
 O programa foi testado diretamente na IDE Eclipse para garantir a execução correta das funcionalidades.
 
 ---
@@ -33,11 +34,11 @@ Para executar o programa:
 2. Abra o projeto no Eclipse.  
 3. Certifique-se de que o PostgreSQL está instalado e rodando, e que a tabela `livros` foi criada no banco `biblioteca`.  
 4. Configure a conexão com o banco na classe `DAO.java` (host, porta, nome do banco, usuário e senha).  
-5. Execute a classe `Principal.java`.  
-6. Utilize o menu para manipular os livros cadastrados (Listar, Inserir, Atualizar, Excluir, Sair).
+5. Certifique-se de que o Maven está configurado para reconhecer o `pom.xml`.  
+6. Execute a classe `Principal.java`.  
+7. Utilize o menu para manipular os livros cadastrados (Listar, Inserir, Atualizar, Excluir, Sair).
 
 ---
-
 ## Recursos Utilizados
 
 - IDE Eclipse  
