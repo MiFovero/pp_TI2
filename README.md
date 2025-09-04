@@ -11,7 +11,7 @@ Atualmente, este repositório contém:
 1. **Exercício 1 - Integração Eclipse e GitHub**  
    - Programa em Java para somar dois números inteiros, utilizando Eclipse e integração com GitHub.  
    - Classe principal: `SomarDoisNumeros.java`  
-   - [Link para o README do Exercício 1](Exercicio1/README.md)  
+   - [Link para o README do Exercício 1]([Exercicio1/README.md](https://github.com/MiFovero/pp_TI2/blob/4c96541070f785dfb47ba96c571ccc1765f3c1f0/ex01/README.md))  
 
 2. **Exercício 2 - Integração Eclipse e PostgreSQL**  
    - Programa em Java para manipulação de dados no PostgreSQL com operações CRUD, incluindo menu interativo no console.  
